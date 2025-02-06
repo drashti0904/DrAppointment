@@ -25,14 +25,14 @@ const Footer = () => {
            <p className="text-xl font-medium mb-5 ">GET IN TOUCH</p>
            <ul className="flex flex-col gap-2 text-gray-600">
                 <li>+0-000-000-000</li>
-                <li>greatstackdev@gmail.com</li>
+                <li>drashtidesai0612@gmail.com</li>
            </ul>
         </div>
       </div>
       {/*...........Copyright Text.........*/}
       <div>
         <hr />
-        <p className="py-5 text-sm text-center">Copyright 2024 @ Greatstack.dev - All Right Reserved.</p>
+        <p className="py-5 text-sm text-center">Copyright 2023 @ drashtidesai - All Right Reserved.</p>
       </div>
     </div>
 
